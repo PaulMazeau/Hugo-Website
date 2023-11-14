@@ -6,7 +6,6 @@ draft: false
 
 # Bienvenue sur ma page À propos!
 
-![petit dragon](/uploads/v7.png)
 
 ## Qui suis-je?
 
