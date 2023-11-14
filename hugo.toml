@@ -22,9 +22,3 @@ weight = 3
 name = "About"
 url = "/about/about"
 weight = 4
-
-[params.sidebar]
-  [params.sidebar.avatar]
-    src = "uploads/v7.png"
-    local = true
-
