@@ -6,6 +6,8 @@ draft: false
 
 # Bienvenue sur ma page À propos!
 
+![petit dragon](/uploads/v7.png)
+
 ## Qui suis-je?
 
 Je suis Paul, un passionné de [votre domaine d'intérêt ou profession]. J'ai créé ce site pour partager mes connaissances, expériences, et pour connecter avec des personnes ayant des intérêts similaires.
