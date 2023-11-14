@@ -1,4 +1,4 @@
 baseURL = 'https://paulmazeau.github.io/quickstart'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Le blog de paul'
 theme = 'stack'
