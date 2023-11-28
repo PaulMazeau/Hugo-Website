@@ -1,10 +1,8 @@
 ---
-title: "À propos de Moi"
+title: "Mon Blog"
 date: 2023-11-18
 draft: false
 ---
-
-# Bienvenue sur mon Blog
 
 ## Qui suis-je?
 ![](image.png)

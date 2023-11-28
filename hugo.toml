@@ -4,13 +4,13 @@ title = 'Le blog de paul'
 theme = 'hextra'
 
 [[menu.main]]
-name = "Home"
+name = "Accueil"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Posts"
-url = "/post/"
+name = "Blog"
+url = "/blog/"
 weight = 2
 
 [[menu.main]]
