@@ -1,7 +1,7 @@
 baseURL = 'https://paulmazeau.github.io/quickstart'
 languageCode = 'en-us'
 title = 'Le blog de paul'
-theme = 'stack'
+theme = 'hextra'
 
 [[menu.main]]
 name = "Home"
